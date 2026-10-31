@@ -9,7 +9,7 @@
 Me chamo Diego Borges, tenho 23 anos e em  moro Uberlândia- MG. 
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/fb/c1/cb/fbc1cb06881b19228e8c91a6a493974b.gif">
 
 <h3 align="left">Connect with me!</h3>
 
